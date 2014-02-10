@@ -1,0 +1,126 @@
+Advanced Solar Panels	SeNtiMeL
+Alternate Terrain Generation	TTFTCUTS
+Andrew244's Modular Powersuits Addons	eximius88
+Applied Energistics	AlgorithmX2
+ArmorStatusHUD	bspkrs
+Aroma1997Core	Aroma1997
+Ars Magic 2	Mithion
+BattleTowers	AtomicStryker
+BetterAnvil	vdvman1
+Better Leaves & Grass	Poersch
+Bibliocraft	Nuchaz
+Binnie Mods	Binnie
+BlockBreaker	bspkrs
+bspkrsCore	bspkrs
+Buildcraft	SirSengir
+Buildcraft Tool	Maexx97
+ChickenChunks	chicken_bones
+CodeChickenCore	chicken_bones
+CoFH Core	KingLemming
+CompactSolars	cpw
+CompactWindmills	Aroma1997
+ComputerCraft	Dan200
+Crafting Suite	_bau5
+Crossbow Mod 2	micdoodle8
+DartCraft	bluedart
+Defense	Emasher
+denLib	denoflions
+DenPipes	denoflions
+DenPipes Emerald	denoflions
+DenPipes Forestry	denoflions
+EmasherResource	Emasher
+EnderStorage	chicken_bones
+EngineersToolbox	Emasher
+Equivalency	Lomeli12
+Equivalent Exchange 3	Pahimar
+ExtraCells	Leonelf
+ExtraTiC	Glassmaker
+Extra Utilities	RWTema
+Factorization	neptunepink
+Forestry For Minecraft	SirSengir
+Galacticraft Core	micdoodle8
+Galacticraft Mars	micdoodle8
+GasCraft	Emasher
+GateCopy	denoflions
+GraviGun	iChun
+Gravitation Suite	SeNtiMeL
+GregTech	GregoriusT
+Hats	iChun
+HatStand	iChun
+HeldCore	heldplayer 
+IC2 Advanced Machines	AtomicStryker
+ iChunUtil	iChun
+Id Fix Minux Mod	AUTOMATIC_MAIDEN
+Immibis Core	immibis
+IndustrialCraft²	Alblaka
+Inventory Tweaks	Kobata
+Iron Chest	cpw
+JABBA	ProfMobius
+KeithyUtils	RebelKeithy
+Liquid XP	immibis
+LomLib	Lomeli12
+MachineMuse's Modular Powersuits	MachineMuse
+Magic Bees	MysteriousAges
+Metallurgy 3 Core	Team Metallurgy
+Micdoodle Core	micdoodle8
+MineFactory Reloaded	skyboy026
+MobiusCore	ProfMobius
+ModularForceFieldSystem	Calclavia
+Morph	iChun
+Mystcraft	XCopWiz
+Natura	mDiyo
+NEI Addons	bdew
+NEI Mystcraft Plugin	heldplayer 
+NEI Plugins	mistaqur
+Nether Ores	skyboy026
+Not Enough Items	chicken_bones
+Nuclear Control	Shedar
+Numina	MachineMuse
+OpenBlocks	MikeeMoo
+OpenPeripheral	MikeeMoo
+Opis	ProfMobius
+Pam's Clay Spawn	MatrexsVigil and Rhodox of the Painterly Pack
+Pam's DesertCraft	MatrexsVigil and Rhodox of the Painterly Pack
+Pam's Extended Glass	MatrexsVigil and Rhodox of the Painterly Pack
+Pam's Get all the Seeds	MatrexsVigil and Rhodox of the Painterly Pack
+Pam's Huge Mushroom Spawn	MatrexsVigil and Rhodox of the Painterly Pack
+Pam's Melon Spawn	MatrexsVigil and Rhodox of the Painterly Pack
+Pam's Mob Drop Crops	MatrexsVigil and Rhodox of the Painterly Pack
+Pam's Random Plants	MatrexsVigil and Rhodox of the Painterly Pack
+Pam's Simple Recipes	MatrexsVigil and Rhodox of the Painterly Pack
+Pam's Temperate Plants	MatrexsVigil and Rhodox of the Painterly Pack
+Pam's Weee Flowers	MatrexsVigil and Rhodox of the Painterly Pack
+Plugins For Forestry	denoflions
+PortalGun	iChun
+PowerCrystalsCore	skyboy026
+ProjectRed	MrTjP and ChickenBones
+ProjectRed Compat	MrTjP and ChickenBones
+ProjectRed Integration	MrTjP and ChickenBones
+ProjectRed Lighting	MrTjP and ChickenBones
+ProjectRed Mechanical	MrTjP and ChickenBones
+ProjectRed World	MrTjP and ChickenBones
+Quarry Plus	denoflions
+Railcraft	 CovertJaguar
+Redstone Arsenal	KingLemming
+SG Craft	Greg_Ewing
+Slick Util	MachineMuse
+Soul Shards	ShadwDrgn
+Steve's Carts 2	Vswe
+Thaumcraft	Azanor
+Thaumcraft Extras	Wasliebob
+Thaumic Cheatery	SpitefulFox
+Thaumic Tinkerer	Vazkii
+Thermal Expansion	KingLemming
+The SecretRooms Mod	AbrarSyed
+The Twilight Forest	Benimatic
+Tinkers Construct	mDiyo
+Tinkers Mechworks	mDiyo
+TrainCraft	Mrbrutal & Spitfire4466
+Translocator	chicken_bones
+Tree Capitator	bspkrs
+Tropicraft	Cojomax99
+Tubestuff	immibis
+TwitchTV IRC Mod Reborn	xIGBClutchIx
+Universal Electricity	Calclavia
+Waila	ProfMobius
+Wireless Redstone Chicken Bones Edition	chicken_bones
